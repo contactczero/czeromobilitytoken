@@ -1,0 +1,35 @@
+Token name: CZero Mobility Token
+
+Token ticker: CZMT
+
+Token decimals: 6
+
+Multisig wallet address: 0xFBE1F270e771cFA3eCFb411F4907243378AB98A8
+
+*****************************
+
+Crowdsale rate: 5000
+
+Crowdsale start time: 2018-06-10T08:33 (GMT + 5.5)
+
+Crowdsale end time: 2018-06-13T00:00 (GMT + 5.5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+Null finalize agent contract name: NullFinalizeAgentExt
+
+Null finalize agent contract address for Tier 1: 0x23e7C294d130950E839765b0BD3f6c1132F6cEf9
+
+*****************************
+
+****Null Finalize agent contract ABI:**** 
+
+[{"constant":false,"inputs":[],"name":"finalizeCrowdsale","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isFinalizeAgent","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"isSane","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"crowdsale","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"reservedTokensDistributionBatch","type":"uint256"}],"name":"distributeReservedTokens","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"reservedTokensAreDistributed","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"},{"inputs":[{"name":"_crowdsale","type":"address"}],"payable":false,"type":"constructor"}]
+
+****Null Finalize agent contract ABI encoded constructor arguments for Tier 1:**** 
+
+00000000000000000000000019315c53bbe54bac9e2f710d075e0388e136b302

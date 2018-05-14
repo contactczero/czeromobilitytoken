@@ -1,0 +1,31 @@
+Token name: CZero Mobility Token
+
+Token ticker: CZMT
+
+Token decimals: 6
+
+Multisig wallet address: 0xFBE1F270e771cFA3eCFb411F4907243378AB98A8
+
+*****************************
+
+Crowdsale rate: 5000
+
+Crowdsale start time: 2018-06-10T08:33 (GMT + 5.5)
+
+Crowdsale end time: 2018-06-13T00:00 (GMT + 5.5)
+
+Compiler Version: 0.4.11
+
+Is optimization enabled?: true
+
+*****************************
+
+SafeMathLib library name: SafeMathLibExt
+
+SafeMathLib library address: 0xB052266b219f99CcA1e6d8B4F69C8B1B5CaF9b34
+
+*****************************
+
+****SafeMathLib contract ABI:**** 
+
+[{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"times","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"plus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"divides","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"constant":false,"inputs":[{"name":"a","type":"uint256"},{"name":"b","type":"uint256"}],"name":"minus","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"}]
